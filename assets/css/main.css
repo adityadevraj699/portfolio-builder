@@ -46,6 +46,9 @@ img{
 a{
     text-decoration: none;
 }
+.navbar-toggler-btn a{
+    color: #1A91F0;
+}
 
 /* fonts */
 .font-poppins{font-family: var(--font-poppins);}
